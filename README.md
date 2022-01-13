@@ -1,5 +1,11 @@
 # fullstack-movies
+Aplicacion fullstack desarrollada con react, node.js y mysql.
+Es un buscador de peliculas, que mediante el ingreso de una pelicula en el buscador busca en la bdd
+Luego dockerizamos esta app para la materia 'desarrollo de aplicaciones cliente servidor', para aprender a manipular docker 
 
+
+
+## Para que funcione 
 IMPORTANTE:
 - Carpeta client --> frontend
 - Carpeta server --> backend
